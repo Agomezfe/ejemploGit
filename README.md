@@ -3,3 +3,4 @@
 esta librería permite:
     - Sumar
     - Restar
+    - Multiplicar
